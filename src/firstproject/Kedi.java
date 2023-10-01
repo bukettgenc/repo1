@@ -9,8 +9,6 @@ package firstproject;
  *
  * @author buket.genc
  */
-public class Hayvan {
-     int sayii;
-    public Hayvan(int i){
-    sayii=i;}
+public class Kedi {
+    
 }
